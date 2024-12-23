@@ -9,7 +9,6 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, Python, and JavaScript.
 - 📫 How to reach me: [Email](mailto:developerakashy@gmail.com)
-- 😄 Pronouns: they/them
 - ⚡ Fun fact: I love hiking and exploring nature!
 
 ## 🔧 Technologies & Tools
